@@ -1,0 +1,3 @@
+commands to run the file:
+  gcc bus_reservation.c
+  .\a.exe
